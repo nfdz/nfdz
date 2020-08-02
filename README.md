@@ -13,25 +13,25 @@ I am a software engineer specialized in mobile technologies and IoT
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I craft things with wood in my spare time
 
-<table><tr><td valign="top" width="33%">
+<!--<table><tr><td valign="top" width="33%">-->
 
-### Recent releases
+<!--<### Recent releases-->
 <!-- recent_releases starts -->
-* [TODO](TODO) - 2020-08-02
+<!--<* [TODO](TODO) - 2020-08-02-->
 <!-- recent_releases ends -->
-More on [TODO](TODO)
-</td><td valign="top" width="34%">
+<!--<More on [TODO](TODO)-->
+<!--<</td><td valign="top" width="34%">-->
 
-### My Blog
+<!-- ### My Blog-->
 <!-- blog starts -->
-* [TODO](TODO) - 2020-08-02
+<!-- * [TODO](TODO) - 2020-08-02-->
 <!-- blog ends -->
-More on [TODO](TODO)
-</td><td valign="top" width="33%">
+<!-- More on [TODO](TODO)-->
+<!-- </td><td valign="top" width="33%">-->
 
-### My Experiments
+<!-- ### My Experiments-->
 <!-- experiments starts -->
-* [TODO](TODO) - 2020-08-02
+<!-- * [TODO](TODO) - 2020-08-02-->
 <!-- experiments ends -->
-More on [TODO](TODO)
-</td></tr></table>
+<!-- More on [TODO](TODO)-->
+<!-- </td></tr></table>-->
