@@ -2,10 +2,9 @@
 
 <img width=256 align="right" src="https://github.com/nfdz/nfdz/blob/master/assets/thecat.gif?raw=true" />
 
-
 I am a software engineer specialized in mobile technologies and IoT
 
-- 🔭 I’m currently working on [Cryptool](https://github.com/nfdz/Cryptool) and [nfdzbuilder](https://github.com/nfdz/nfdzbuilder)
+- 🔭 I’m currently working on [Cryptool](https://github.com/nfdz/Cryptool)
 - 🌱 I’m currently learning **Kotlin Multiplatform** and **iOS**
 - 👯 I’m looking to collaborate on open source libraries and applications
 - 💬 Ask me about: Android, Flutter, Kotlin, Java
