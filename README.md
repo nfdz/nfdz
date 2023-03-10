@@ -12,7 +12,6 @@
 
 I am a software engineer specialized in mobile technologies
 
-- 🔭 I’m currently working on [Cryptool](https://github.com/nfdz/Cryptool) & [Usercentrics](https://github.com/Usercentrics)
 - 🌱 I’m currently learning **SwiftUI**
 - 🦾 I’m looking to collaborate on open source libraries and applications
 - 💬 Ask me about: Kotlin Multiplatform, Flutter, Android, and iOS
@@ -24,9 +23,9 @@ I am a software engineer specialized in mobile technologies
 <table>
 
 <tr>
-<td><a href="https://github.com/Usercentrics/react-native-sdk">Usercentrics React Native SDK</a></td>
-<td><a href="https://www.npmjs.com/package/@usercentrics/react-native-sdk">
-    <img alt="Usercentrics React Native SDK Version" src="https://img.shields.io/npm/v/@usercentrics/react-native-sdk">
+<td><a href="https://github.com/nfdz/Cryptool">Cryptool</a></td>
+<td><a href="https://github.com/nfdz/Cryptool/releases">
+    <img alt="Cryptool Application Version" src="https://img.shields.io/badge/gh-v3.1.0-blue">
 </a></td>
 </tr>
 
@@ -34,6 +33,13 @@ I am a software engineer specialized in mobile technologies
 <td><a href="https://github.com/Usercentrics/flutter-sdk/">Usercentrics Flutter SDK</a></td>
 <td><a href="https://pub.dev/packages/usercentrics_sdk">
     <img alt="Usercentrics Flutter SDK Version" src="https://img.shields.io/pub/v/usercentrics_sdk">
+</a></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Usercentrics/react-native-sdk">Usercentrics React Native SDK</a></td>
+<td><a href="https://www.npmjs.com/package/@usercentrics/react-native-sdk">
+    <img alt="Usercentrics React Native SDK Version" src="https://img.shields.io/npm/v/@usercentrics/react-native-sdk">
 </a></td>
 </tr>
 
