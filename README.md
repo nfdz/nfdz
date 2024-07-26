@@ -3,6 +3,8 @@
 
 I am a software engineer specialized in mobile-first technologies
 
+<img width=266 src="https://github.com/nfdz/nfdz/blob/master/assets/s.png?raw=true" />
+
 - 🏄 I’m surfing the indie hacking wave
 - 🌱 I’m currently learning **AI**
 - 🦾 I’m looking to collaborate on open source libraries and applications
@@ -11,11 +13,4 @@ I am a software engineer specialized in mobile-first technologies
 - 🌐 My personal website: [nfdz.dev](https://nfdz.dev)
 
 
-<table>
-<tr>
-<td><img width=236 src="https://github.com/nfdz/nfdz/blob/master/assets/thecat.gif?raw=true" /></td>
-</tr>
-<tr>
-<td><img width=236 src="https://github.com/nfdz/nfdz/blob/master/assets/s.png?raw=true" /></td>
-</tr>
-</table>
+<img width=190 src="https://github.com/nfdz/nfdz/blob/master/assets/thecat.gif?raw=true" />
