@@ -4,7 +4,7 @@
 
 # Hi, I'm Noé 👋
 
-I am a software engineer specialized in mobile-first technologies
+I am a software engineer specialized in mobile-first technologies.
 
 - ☀️ Indie entrepreneur and freelancer in Spain.
 - 🌱 I’m currently learning **AI** and **Swift**.
